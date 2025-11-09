@@ -1,0 +1,2 @@
+# inputarrC
+Input Arr And
